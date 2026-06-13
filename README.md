@@ -70,7 +70,7 @@ Projects involving:
 
 ### ✍️ Blog & Content
 
-🚧 Articles coming soon on embedded systems, digital design, FPGA development, and hardware projects.
+➡️ Blog: barathrajkb.hashnode.dev
 
 ---
 
