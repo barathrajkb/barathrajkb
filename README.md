@@ -68,9 +68,11 @@ Projects involving:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:barathrajkb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/barathrajkb)
 
-### ✍️ Blog & Content
+### Engineering Journal
 
-➡️ Blog: barathrajkb.hashnode.dev
+I write about electronics, embedded systems, digital design, and engineering projects.
+
+➡️ **Blog:** [barathrajkb.hashnode.dev](https://barathrajkb.hashnode.dev)
 
 ---
 
